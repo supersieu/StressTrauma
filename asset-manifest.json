@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/StressTrauma/static/js/main.0ad7a9db.chunk.js",
+    "main.js.map": "/StressTrauma/static/js/main.0ad7a9db.chunk.js.map",
+    "runtime-main.js": "/StressTrauma/static/js/runtime-main.c75b4646.js",
+    "runtime-main.js.map": "/StressTrauma/static/js/runtime-main.c75b4646.js.map",
+    "static/js/2.ccdeeda7.chunk.js": "/StressTrauma/static/js/2.ccdeeda7.chunk.js",
+    "static/js/2.ccdeeda7.chunk.js.map": "/StressTrauma/static/js/2.ccdeeda7.chunk.js.map",
+    "static/js/3.b70c5ee7.chunk.js": "/StressTrauma/static/js/3.b70c5ee7.chunk.js",
+    "static/js/3.b70c5ee7.chunk.js.map": "/StressTrauma/static/js/3.b70c5ee7.chunk.js.map",
+    "index.html": "/StressTrauma/index.html",
+    "static/js/2.ccdeeda7.chunk.js.LICENSE.txt": "/StressTrauma/static/js/2.ccdeeda7.chunk.js.LICENSE.txt",
+    "static/media/Bilan.f2ad4055.png": "/StressTrauma/static/media/Bilan.f2ad4055.png",
+    "static/media/Evt.dbbe9262.png": "/StressTrauma/static/media/Evt.dbbe9262.png",
+    "static/media/Group115.d462103d.svg": "/StressTrauma/static/media/Group115.d462103d.svg",
+    "static/media/HomeMockup.ccb02c45.png": "/StressTrauma/static/media/HomeMockup.ccb02c45.png",
+    "static/media/LemonJelly.2bf6b527.ttf": "/StressTrauma/static/media/LemonJelly.2bf6b527.ttf",
+    "static/media/MapMockup.0482bab8.png": "/StressTrauma/static/media/MapMockup.0482bab8.png",
+    "static/media/ResultatMockup.c46defee.png": "/StressTrauma/static/media/ResultatMockup.c46defee.png",
+    "static/media/bg.5bf9b27f.jpg": "/StressTrauma/static/media/bg.5bf9b27f.jpg",
+    "static/media/expand.6ac4027d.svg": "/StressTrauma/static/media/expand.6ac4027d.svg",
+    "static/media/googleplay.fceb55a5.svg": "/StressTrauma/static/media/googleplay.fceb55a5.svg",
+    "static/media/logo.df57942d.png": "/StressTrauma/static/media/logo.df57942d.png",
+    "static/media/wave.08668439.svg": "/StressTrauma/static/media/wave.08668439.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c75b4646.js",
+    "static/js/2.ccdeeda7.chunk.js",
+    "static/js/main.0ad7a9db.chunk.js"
+  ]
+}
